@@ -15,7 +15,6 @@ My research interests mainly lie in:
 ## 🎮 Beyond Research
 
 Outside of AI research, I'm also interested in **game modding** and currently learning how to build mods for games I enjoy.
-
 I may share some small modding projects and experiments here in the future.
 
 ## 📫 How to Reach Me
